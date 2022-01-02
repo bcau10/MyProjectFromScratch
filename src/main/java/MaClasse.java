@@ -17,7 +17,6 @@ public class MaClasse {
             System.out.print("Hello");
             System.out.print("Bonjour");
         }
-
-
+        System.out.println("Fin du main");
     }
 }
